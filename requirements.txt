@@ -1,0 +1,6 @@
+requests
+python-dotenv
+feedparser
+biopython
+html
+logging
