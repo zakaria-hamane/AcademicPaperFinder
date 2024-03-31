@@ -1,6 +1,4 @@
-# AcademicPaperFinder
-
-# Academic Paper Search Helper
+# Academic Paper Finder
 
 This script provides an interface to search for academic papers from multiple sources including IEEE Xplore, arXiv, PubMed, CrossRef, and more. It uses a sequential combined search strategy to go through the strategies one by one until the requested number of paper abstracts are found.
 
