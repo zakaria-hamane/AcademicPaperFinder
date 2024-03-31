@@ -32,3 +32,11 @@ helper.set_sequential_combined_strategy(["ieee", "arxiv"])
 papers = helper.execute("Artificial Intelligence", 10)
 for paper in papers:
  print(paper)
+```
+
+## Environment Variables
+- S2_API_KEY_1: Your Semantic Scholar API key.
+- CORE_API_KEY: Your CORE API key.
+- SPRINGER_API_KEY: Your Springer API key.
+- SS_EMAIL: Your email for Entrez PubMed API.
+- SCOPUS_API_KEY: Your Scopus API key.
